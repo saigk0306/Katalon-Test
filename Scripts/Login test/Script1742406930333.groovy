@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('www.facebook.com')
 
+WebUI.closeBrowser()
+

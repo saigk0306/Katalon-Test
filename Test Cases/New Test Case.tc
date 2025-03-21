@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>fb login</name>
+   <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fd484f1d-a16c-4420-8c66-b9154ec3df71</testCaseGuid>
+   <testCaseGuid>b71926f8-c7bc-4f73-a031-a41e45e7728a</testCaseGuid>
 </TestCaseEntity>
